@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @aleerabdallah
 - 👀 I’m interested in server side development
 - 🌱 I’m currently learning Python for Backend Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me 
+   juniorab444@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
